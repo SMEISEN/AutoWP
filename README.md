@@ -8,8 +8,7 @@ AutoWP addresses two challenges:
 
 The underlying idea of AutoWP is to represent a new WP turbine as a convex linear combination of WP curves from a sufficiently diverse ensemble. The method consists of three steps: i) create the ensemble of normalized WP curves, ii) form the normalized ensemble WP curve by the optimally weighted sum of the WP curves in the ensemble, and iii) re-scale the ensemble WP curve with the new WP turbine’s peak power rating.
 
-![autowp_pipeline](https://github.com/SMEISEN/AutoWP/assets/33990691/e9462653-d209-49af-86b4-3fc9ae901e11)
-
+![autowp_pipeline](https://github.com/SMEISEN/AutoWP/assets/33990691/46b4f23c-4a8f-423e-8e20-a24e2b02ff5d)
 
 ## Installation
 
