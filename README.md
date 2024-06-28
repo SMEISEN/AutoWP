@@ -15,7 +15,7 @@ The underlying idea of AutoWP is to represent a new WP turbine as a convex linea
 To install this project, perform the following steps.
 1) Clone the project
 2) Open a terminal of the virtual environment where you want to use the project
-3) cd AuroWP
+3) cd AutoWP
 4) pip install . or pip install -e . if you want to install the project editable.
 
 ## How to use
@@ -33,7 +33,7 @@ The offline evaluation optimizes the ensemble weights using the entire training 
 ## Citation
 
 If you use this method please cite the corresponding paper:
-> Stefan Meisenbacher et al. 2024. AutoWP: Automated wind power forecasts with limited computing resources using an ensemble of diverse wind power curves. In preparation.
+> S. Meisenbacher et al, “AutoWP: Automated wind power forecasts with limited computing resources using an ensemble of diverse wind power curves”, 2024, in preparation.
 
 ## Funding
 
